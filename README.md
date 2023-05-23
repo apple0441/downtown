@@ -61,7 +61,7 @@ Prerequisites: [docker](https://docs.docker.com/install/), [docker-compose](http
 Clone the project:
 
 ```shell script
-git clone https://github.com/shopwareDowntown/downtown.git
+git clone https://github.com/apple0441/downtown.git
 ```
 
 Change into the project directory, then start the docker containers, add the cache directory and change into the app container:
@@ -179,7 +179,7 @@ shown during the checkout.
 
 # Contributing
 
-You have an idea or you found an issue? Please open an issue here: [shopwareDowntown/portal/issues](https://github.com/shopwareDowntown/portal/issues)
+You have an idea or you found an issue? Please open an issue here: [shopwareDowntown/portal/issues](https://github.com/apple0441/portal/issues)
 Help retailers by contributing to this project. 
 
 # Contributors
